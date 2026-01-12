@@ -35,7 +35,7 @@ The `ping` command sends **ICMP Echo Requests** and waits for **Echo Replies**.
 
 ```bash
 ping 8.8.8.8
-
+```
 **What happens:**
 - Your computer sends an ICMP Echo Request to 8.8.8.8
 - The destination responds with an ICMP Echo Reply
@@ -102,3 +102,4 @@ By analyzing ICMP traffic and using ping, students will learn:
 - [Cloudflare: What is ICMP?](https://www.cloudflare.com/learning/networking/icmp/)  
 - [Ping Command Tutorial (GeeksforGeeks)](https://www.geeksforgeeks.org/ping-command-in-linux-with-examples/)  
 - [Wireshark ICMP Analysis Guide](https://www.wireshark.org/docs/wsug_html_chunked/ChAdvICMP.html)
+
